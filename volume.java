@@ -1,9 +1,9 @@
 class volume
 {
-	public ststic vood maoin()
+	public static void main()
 	{
 		int n=10;
-		v=n*n*N;
-		System.out.println(Voulume = v);
+		v=n*n*n;
+		System.out.println(Volume = v);
 	}
 }
