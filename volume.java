@@ -1,6 +1,6 @@
 class volume
 {
-	public static void main()
+	public static void main(String[] args)
 	{
 		int n=10;
 		v=n*n*n;
